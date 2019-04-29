@@ -11,41 +11,41 @@ custom_links_new_tab:
     url:
 
 client:
-  name:
+  name: Robin Phillips
   title:
   license_number:
   about_markdown: |
 
-  brand:
-  brokerage:
+  brand: The Robin Group
+  brokerage: eXp Realty
   market:
-  address:
-  phone:
+  address: 3022 S Morgans Pt Rd, STE 260, Mt Pleasant, SC 29466
+  phone: 843.214.8451
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: Robin@FindYourPerfectNest.com
+  url: http://experiencetheextraordinary.com
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: https://robinphillips.exprealty.com/sell.php
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: https://robinphillips.exprealty.com/index.php?rtype=grid
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: /homevalue/
+    CTA_url: https://robinphillips.exprealty.com/sell.php
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/002.jpg
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: https://robinphillips.exprealty.com/index.php?rtype=grid
 
 lender:
   show_section: false
@@ -62,8 +62,8 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
+  facebook_url: https://www.facebook.com/TheRobinGroup
+  linkedin_url: https://www.linkedin.com/in/charlestonhomevalues
   youtube_url:
   twitter_url:
   instagram_url:
@@ -94,8 +94,8 @@ images:
   post_cta_image2: /img/home-search.jpg
 
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#91C4C7'
+  theme_color: '#020003'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -104,7 +104,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: black
 
 buttons:
   button_radius_number: 0
