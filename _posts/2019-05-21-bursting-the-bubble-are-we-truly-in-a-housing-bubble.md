@@ -22,15 +22,15 @@ youtube_code: VF_JfXtYYBI
 
 {% include youtube.html %}
 
-According to Derek Goulette, branch manager of Fairway Independent Mortgage, we are not in a real estate bubble. This is in direct contradiction to the persistent rumors we’ve been hearing in the media.&nbsp;
+According to Derek Goulette, branch manager of Fairway Independent Mortgage, **we are not in a real estate bubble. This is in direct contradiction to the persistent rumors we’ve been hearing in the media**.&nbsp;
 
 Real estate cycles trend every seven to nine years, and we’re currently about 11 years into our nine-year upswing, so it’s about time that the market started leveling out to become more neutral.&nbsp;
 
 So how is the market different now compared to that of 2008, when there really was a bubble?
 
-The fuel behind the last housing expansion was a unique set of products that don’t exist in today’s environment like subprime loans. We haven’t seen appreciation like that in this cycle at all; our rate of appreciation this time around has been fairly normal, which is healthy.
+The fuel behind the last housing expansion was a unique set of products that don’t exist in today’s environment, like subprime loans. We haven’t seen appreciation like that in this cycle at all; our rate of appreciation this time around has been fairly normal, which is healthy.
 
-We both agree that our current market does, however, have more of an issue with affordability than we do a bubble. That means it’s a great time to sell—you probably won’t get a whole lot more from your home sale in the future than you will now.
+**We both agree that our current market does, however, have more of an issue with affordability than we do a bubble.** That means it’s a great time to sell—you probably won’t get a whole lot more from your home sale in the future than you will now.
 
 Why, then, is it still a good time to buy, even though home prices are high?
 
