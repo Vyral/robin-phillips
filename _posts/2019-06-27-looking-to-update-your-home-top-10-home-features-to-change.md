@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 10 Home Features Buyers no Longer Want
-date: 2019-06-27 16:47:35
+title: Looking to Update Your Home? Top 10 Home Features to Change
+date: 2019-06-27 16:47:00
 tags:
   - Real Estate
 excerpt: >-
@@ -26,7 +26,7 @@ Here are the top 10 least desirable home features among today’s buyers:
 
 **2\. Oak-colored kitchen cabinets.** If you have these, refinishing them is much cheaper than replacing them. Here in Charleston, white kitchen cabinets are more desirable.&nbsp;
 
-**3\. White kitchen appliances.** If you’re going to buy new kitchen appliances, go with stainless steel if you have light kitchen cabinets. If you have dark kitchen cabinets, go with black stainless steel. If you’re in a luxury home, have them paneled to match whatever color your kitchen cabinetry is.&nbsp;
+**3\. White kitchen appliances.** If you’re going to buy new kitchen appliances, go with stainless steel if you have light kitchen cabinets. If you have dark kitchen cabinets, go with black stainless steel. If you are in a luxury home, have them paneled to match your kitchen cabinetry.
 
 **4\. A floor plan closed off to the main living area.** Nowadays, everyone is asking for an open floor plan, which means the kitchen and main living area are open to one another.&nbsp;
 
@@ -42,8 +42,6 @@ Here are the top 10 least desirable home features among today’s buyers:
 
 **9\. Low bathroom vanities.** These were trendy in the 80s, but nowadays, vanities are much higher.&nbsp;
 
-**10\. Mix-and-match flooring.** If you have hardwood flooring throughout your home, make sure it’s the same type of hardwood with the same stain. Nobody wants different types of hardwood in each bedroom.&nbsp;
+**10\. Mix-and-match flooring.** If you have hardwood flooring throughout your home, make sure it’s the same type of hardwood with the same stain. Nobody wants different types of hardwood in each room.&nbsp;
 
-If you have any questions about the updates you plan on making to your home—whether they’ll bring you top dollar, what your budgetary constraints will be, or what the trends are—don’t hesitate to give me a call. I’d be happy to help you.&nbsp;<br>&nbsp;
-
-&nbsp;
+If you have any questions about the updates you plan on making to your home—whether they’ll bring you top dollar, what your budget should be, or what the trends are—don’t hesitate to give me a call. I’d be happy to help you.
