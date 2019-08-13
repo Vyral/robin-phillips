@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Different Areas Within Our Local Market Have Changed Since 2018
-date: 2019-07-26 20:08:57
+date: 2019-07-26 20:08:00
 tags:
   - Market Update
 excerpt: >-
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: xhy8-QiVEC4
+youtube_code: JbnsJ4WdZh0
 ---
 
 {% include youtube.html %}
