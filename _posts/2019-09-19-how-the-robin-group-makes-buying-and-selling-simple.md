@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How the Robin Group Makes Buying and Selling Simple
-date: 2019-09-19 19:02:32
+date: 2019-09-19 19:02:00
 tags:
   - Real Estate
 excerpt: >-
@@ -9,11 +9,11 @@ excerpt: >-
   through Ribbon may be a good option for you.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Robin+Phillips/2019/Videos/Buying+and+Selling+Made+Simple.mp4
-pullquote: Our team is truly committed to making buying and selling fun and simple
+pullquote: Our team is truly committed to making buying and selling fun and simple.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/bsyt.jpg
 youtube_code: yzPgbfHjYfo
 ---
 
