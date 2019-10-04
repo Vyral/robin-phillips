@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How the Robin Group Makes Buying and Selling Simple
+title: How The Robin Group Makes Buying and Selling Simple
 date: 2019-09-19 19:02:00
 tags:
   - Real Estate
