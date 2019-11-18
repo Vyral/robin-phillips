@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How HOA and Regime Fees Work
-date: 2019-11-15 17:16:16
+date: 2019-11-15 17:16:00
 tags:
   - Real Estate
 excerpt: Here’s what you need to know about HOA fees and regime fees.
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 3-jeUbySRaA
+youtube_code: YyR2cp0xbug
 ---
 
 {% include youtube.html %}
