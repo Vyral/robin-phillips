@@ -8,15 +8,15 @@ excerpt: >-
   Aside from your down payment, here’s what it will cost you to buy your next
   home.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Robin+Phillips/2019/Videos/The+Money+Youll+Need+to+Buy+Your+Next+Home.mp4
+  https://vyralmarketing.s3.amazonaws.com/Robin+Phillips/The+Money+Youll+Need+to+Buy+Your+Next+Home+(1).mp4
 pullquote: >-
   If you have your down payment amount, upfront money, and closing costs
   accounted for, you’re fully prepared for the purchase of your new home!
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/buyingyournexthome-yt.jpg
-youtube_code: Nmntn9iNN6E
+youtube_alternate_image: /uploads/buyingyournexthome-yt-1.jpg
+youtube_code: DHrK3tQCGtA
 ---
 
 {% include youtube.html %}
