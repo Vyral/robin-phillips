@@ -23,11 +23,11 @@ youtube_code: Nmntn9iNN6E
 
 Aside from your down payment, how much will it cost you to buy your next home? What other cash do you need? Basically, you need two additional pools of money.&nbsp;
 
-**The first is your upfront money,** or money you’ll need for the initial purchase. When you make an offer on a home in Charleston, it’s customary to put up earnest money. There’s no set amount for this, but if you buy in the $500,000-to-$550,000 range, it will normally cost anywhere from $1,000 to $6,000. You’ll also need about $500 for an appraisal (which your lender will order), between $350 and $650 for your home inspection, and another $150 for your termite and moisture inspections. All in all, your upfront money will total around $3,600 or $3,700.
+**The first is your upfront money**&nbsp;or money you’ll need for the initial purchase. When you make an offer on a home in Charleston, it’s customary to put up earnest money. There’s no set amount for this, but if you buy in the $500,000 to $550,000 range, it will normally cost anywhere from $1,000 to $6,000. You’ll also need about $500 for an appraisal (which your lender will order), between $350 and $650 for your home inspection, and another $150 for your termite and moisture inspections. All in all, your upfront money will total around $3,600 or $3,700.
 
 {% include pullquote.html %}
 
-The second pool of money you’ll need is for **your closing costs**. If we’re using the same $500,000-to-$550,000 price range as our example, your closing costs will add up to about $10,000. There are a lot of variables that go into that number, but the process will always include items such as:
+The second pool of money you’ll need is for **your closing costs**. If we’re using the same $500,000 to $550,000 price range as our example, your closing costs will add up to about $10,000. There are a lot of variables that go into that number, but the process will always include items such as:
 
 * Legal fees&nbsp;
 * Title insurance&nbsp;
