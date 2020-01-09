@@ -29,10 +29,10 @@ Selling your home for top dollar is not easy, but tackling these three challenge
 * Get the kids involved and reward them for helping.
 * Make Clorox Wipes your best friend.
 * Swiffer Wet and Swiffer Dry. These work great in a pinch to tidy up quickly.
-* Bins and baskets. Put shower toiletries in a bin or basket. Same with counter stuff and coffee-table things.
+* Bins and baskets. Put shower toiletries in a bin or basket. Same with counter stuff and coffee table things.
 
 {% include pullquote.html %}
 
-**3\. Feedback.** Buyers that come and see your home will give automated feedback, which will come directly to you unfiltered. Remember that buyers don’t know the love, effort, and care that you’ve put into your home, so don’t get discouraged by harsh feedback. It’s important to disconnect from that feedback and not let it hurt your feelings. At this point, look forward to the good feedback and focus on that.
+**3\. Feedback.** Buyers that come and see your home will give automated feedback, which will come directly to you unfiltered. Remember that buyers don’t know the love, effort, and care that you’ve put into your home, so don’t get discouraged by harsh feedback. It’s important to disconnect from those comments and not let it hurt your feelings. At this point, look forward to the good feedback and focus on that.
 
-These are just a few of the challenges that you’ll face as a home seller. If you have any questions for me or need any help getting your home properly prepared, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
+These are just a few of the challenges that you’ll face as a home seller. If you have any questions or need help getting your home properly prepared, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
