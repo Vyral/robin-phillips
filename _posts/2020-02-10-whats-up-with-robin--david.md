@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What’s Up With Robin & David
-date:
+date: 2020-02-10 17:52:41
 tags:
 excerpt: >-
   Today I’m sharing why I recently earned my broker license and what it means
@@ -17,7 +17,11 @@ youtube_alternate_image: /uploads/update-yt.jpg
 youtube_code: 95k7EkeadDA
 ---
 
-{% include youtube.html %}<center>Today I’m sharing why I recently earned my broker license and what it means for my clients as well as my.</center>
+{% include youtube.html %}
+
+<center>Today I&rsquo;m sharing why I recently earned my broker license and what it means for my clients as well as my.</center>
+
+&nbsp;
 
 I have some exciting personal news: **I recently passed my broker’s licensing exam**\! A year and a half ago, David and I joined eXp Realty, a then brand-new brokerage with only a few agents nationwide; not a lot of people believed in it, and some thought it was a crazy idea.&nbsp;
 
