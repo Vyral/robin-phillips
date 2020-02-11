@@ -1,7 +1,7 @@
 ---
 layout: post
-title: What’s Up With Robin & David
-date: 2020-02-10 17:52:41
+title: What’s Up With the Robin Group?
+date: 2020-02-10 17:52:00
 tags:
 excerpt: >-
   Today I’m sharing why I recently earned my broker license and what it means
@@ -19,11 +19,11 @@ youtube_code: 95k7EkeadDA
 
 {% include youtube.html %}
 
-<center>Today I&rsquo;m sharing why I recently earned my broker license and what it means for my clients as well as my.</center>
+<center>Today I&rsquo;m sharing why I recently earned my broker license and what it means for my clients and team.</center>
 
 &nbsp;
 
-I have some exciting personal news: **I recently passed my broker’s licensing exam**\! A year and a half ago, David and I joined eXp Realty, a then brand-new brokerage with only a few agents nationwide; not a lot of people believed in it, and some thought it was a crazy idea.&nbsp;
+I have some exciting personal news: **I recently passed my broker’s licensing exam\!** A year and a half ago, David and I joined eXp Realty, a then brand-new brokerage with only a few agents nationwide; not a lot of people believed in it, and some thought it was a crazy idea.&nbsp;
 
 Well, eXp has since turned out to be the fastest-growing brokerage in the United States and for very good reason. Our partnership with them has allowed David and I to create a revolutionary team concept that we truly believe is going to change the lives of lots of agents.&nbsp;
 
@@ -35,6 +35,8 @@ I couldn’t be more excited for 2020, as I anticipate an amazing year here in C
 
 Everyone talks about the seven to nine real estate cycle, and how we’ve been trending upward for far too long now. I understand fears that the bubble will burst soon, and while I’m aware of the signs that indicate the market shouldn’t continue to be this strong, the simple fact is that it continues to be so. **I do believe that in the next year we’ll see continued appreciation in the Charleston market.&nbsp;**
 
-During that time, I look forward to doubling down on not only my commitment to my clients, but also my commitment to those who have joined my team. We want to improve our agents’ lives, give them a strong retirement, and continuously offer them something to look forward to.&nbsp;
+During that time, I look forward to doubling down on not only my commitment to my clients, but also my commitment to those who have joined my team. We want to improve our agents’ lives, continuously offer them something to look forward to, and give them a strong retirement.
 
-Thank you all for being a part of my life and letting me share with you why I became a broker—not to start my own brokerage, but to better for my clients and my agents.&nbsp;
+Thank you all for being a part of my life and letting me share with you why I became a broker—not to start my own brokerage, but to be better for my clients and agents.
+
+If you ever have any questions about real estate, please feel free to reach out to us via phone or email. We would love to talk to you.
