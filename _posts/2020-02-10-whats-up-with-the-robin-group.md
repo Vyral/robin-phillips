@@ -27,13 +27,13 @@ I have some exciting personal news: **I recently passed my broker’s licensing 
 
 Well, eXp has since turned out to be the fastest-growing brokerage in the United States and for very good reason. Our partnership with them has allowed David and I to create a revolutionary team concept that we truly believe is going to change the lives of lots of agents.&nbsp;
 
-Getting my broker license not only allows me to implement more knowledge when helping my clients, but **it also allows me to be a better leader for my team**.&nbsp;
+Getting my broker license not only allows me to impart more knowledge when helping my clients, but **it also allows me to be a better leader for my team.**
 
 I couldn’t be more excited for 2020, as I anticipate an amazing year here in Charleston. We’ve bucked the trend; our growth is outpacing most other cities in the U.S., and the basis of our economic engine will make the real estate market better than anyone expected this year.&nbsp;
 
 {% include pullquote.html %}
 
-Everyone talks about the seven to nine real estate cycle, and how we’ve been trending upward for far too long now. I understand fears that the bubble will burst soon, and while I’m aware of the signs that indicate the market shouldn’t continue to be this strong, the simple fact is that it continues to be so. **I do believe that in the next year we’ll see continued appreciation in the Charleston market.&nbsp;**
+Everyone talks about the seven to nine <u>year</u> real estate cycle, and how we’ve been trending upward for far too long now. I understand fears that the bubble will burst soon, and while I’m aware of the signs that indicate the market shouldn’t continue to be this strong, the simple fact is that it continues to be so. **I do believe that in the next year we’ll see continued appreciation in the Charleston market.&nbsp;**
 
 During that time, I look forward to doubling down on not only my commitment to my clients, but also my commitment to those who have joined my team. We want to improve our agents’ lives, continuously offer them something to look forward to, and give them a strong retirement.
 
