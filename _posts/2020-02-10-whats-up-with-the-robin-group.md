@@ -33,7 +33,7 @@ I couldn’t be more excited for 2020, as I anticipate an amazing year here in C
 
 {% include pullquote.html %}
 
-Everyone talks about the seven to nine <u>year</u> real estate cycle, and how we’ve been trending upward for far too long now. I understand fears that the bubble will burst soon, and while I’m aware of the signs that indicate the market shouldn’t continue to be this strong, the simple fact is that it continues to be so. **I do believe that in the next year we’ll see continued appreciation in the Charleston market.&nbsp;**
+Everyone talks about the seven to nine year real estate cycle, and how we’ve been trending upward for far too long now. I understand fears that the bubble will burst soon, and while I’m aware of the signs that indicate the market shouldn’t continue to be this strong, the simple fact is that it continues to be so. **I do believe that in the next year we’ll see continued appreciation in the Charleston market.&nbsp;**
 
 During that time, I look forward to doubling down on not only my commitment to my clients, but also my commitment to those who have joined my team. We want to improve our agents’ lives, continuously offer them something to look forward to, and give them a strong retirement.
 
