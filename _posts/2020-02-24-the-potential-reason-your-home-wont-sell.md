@@ -18,7 +18,7 @@ youtube_alternate_image: /uploads/homes-yt-robinphillips.jpg
 youtube_code: U_cHvnmFT6U
 ---
 
-{% include youtube.html %}If your home won’t sell, there may be a problem with its marketing. Here’s what I mean.
+{% include youtube.html %}<center>If your home won’t sell, there may be a problem with its marketing. Here’s what I mean.</center>
 
 Do you know why your home won’t sell? In real estate, marketing boils down to two things.&nbsp;
 
