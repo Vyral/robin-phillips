@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Potential Reason Your Home Won’t Sell
-date: 2020-02-24 18:05:26
+date: 2020-02-24 18:05:00
 tags:
 excerpt: >-
   If your home won’t sell, there may be a problem with its marketing. Here’s
@@ -18,13 +18,19 @@ youtube_alternate_image: /uploads/homes-yt-robinphillips.jpg
 youtube_code: U_cHvnmFT6U
 ---
 
-{% include youtube.html %}<center>If your home won’t sell, there may be a problem with its marketing. Here’s what I mean.</center>
+{% include youtube.html %}
+
+<center>If your home won&rsquo;t sell, there may be a problem with its marketing. Here&rsquo;s what I mean.</center>
+
+&nbsp;
+
+&nbsp;
 
 Do you know why your home won’t sell? In real estate, marketing boils down to two things.&nbsp;
 
 First, **what is the reach?** In other words, how many eyeballs can your agent draw to your listing? More demand means a higher price, so if more people view your home, you’ll get a higher offer, right? There are two ways people increase their reach. The first is through the brokerage they’re associated with—each brokerage has a set of tools that are free to the agent. The second is by how much your agent is willing to pay for (mailers, Facebook ads, etc.).&nbsp;
 
-Second, **have you identified your home’s key selling feature?** Whether you have a 2,000 square foot home in an HOA neighborhood where everything looks alike or a 6,000 square foot waterfront palace with incredibly unique features, your agent has to be able to identify those features online. They also have to communicate them to the buying public, both pictorially and in the listing description.&nbsp;
+Second, **have you identified your home’s key selling feature?** Whether you have a 2,000-square foot home in an HOA neighborhood where everything looks alike or a 6,000-square foot waterfront palace with incredibly unique features, your agent has to be able to identify those features online. They also have to communicate them to the buying public, both pictorially and in the listing description.&nbsp;
 
 This is important because, if you’ve ever looked at the popular online home search portals like Zillow or Realtor.com, you know there are literally thousands of homes popping up in your price point and maybe even in your area.&nbsp;
 
