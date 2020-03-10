@@ -1,10 +1,14 @@
 ---
 layout: post
 title: How We Made Our Clients’ Move Better Than Ever
-date: 2020-03-10 19:01:12
+date: 2020-03-10 19:01:00
 tags:
-excerpt:
-enclosure:
+  - Real Estate
+excerpt: >-
+  When a client has a great experience with our team, we love hearing about it.
+  We recently just caught up with David and his wife, who bought a home with us.
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Robin+Phillips/2020/New+House+Testimonial+v2.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
