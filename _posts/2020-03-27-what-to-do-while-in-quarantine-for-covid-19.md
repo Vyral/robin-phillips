@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What to Do While in Quarantine for COVID-19
-date: 2020-03-27 20:27:56
+date: 2020-03-27 20:27:00
 tags:
 excerpt:
 enclosure: >-
