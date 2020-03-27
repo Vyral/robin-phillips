@@ -3,7 +3,7 @@ layout: post
 title: What to Do While in Quarantine for COVID-19
 date: 2020-03-27 20:27:00
 tags:
-excerpt:
+excerpt: Need some quarantine inspiration? Look no further.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Robin+Phillips/2020/What+to+Do+While+in+Quarantine+for+COVID-19.mp4
 pullquote:
