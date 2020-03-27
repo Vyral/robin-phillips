@@ -18,7 +18,7 @@ youtube_code: FmnIiHV4Jcc
 
 {% include youtube.html %}
 
-<p style="text-align:center">Just because open houses don’t typically lead directly to a sale doesn’t mean they aren’t of great value. Here’s what I mean.</p>
+<p style="text-align:center"><em>Just because open houses don’t typically lead directly to a sale doesn’t mean they aren’t of great value. Here’s what I mean.</em></p>
 
 I’m here at one of my most beautiful listings, 1440 Madison Court. Located in the heart of Mount Pleasant, this truly multi-generational home lends itself well to our message today on open houses.&nbsp;
 
