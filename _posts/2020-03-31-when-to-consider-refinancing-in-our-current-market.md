@@ -21,7 +21,7 @@ youtube_code: AD7_CRlzJds
 
 {% include youtube.html %}
 
-<p style="text-align:center">Whether refinancing makes sense for you or not depends on how long you plan on staying in your current home.</p>
+<p style="text-align:center"><em>Whether refinancing makes sense for you or not depends on how long you plan on staying in your current home.</em></p>
 
 Should you consider refinancing now that interest rates are so low?&nbsp;&nbsp;
 
