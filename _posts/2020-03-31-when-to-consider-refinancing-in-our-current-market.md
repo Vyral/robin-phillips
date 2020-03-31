@@ -1,13 +1,14 @@
 ---
 layout: post
 title: When to Consider Refinancing in Our Current Market
-date: 2020-03-31 17:06:12
+date: 2020-03-31 17:06:00
 tags:
   - Real Estate
 excerpt: >-
   Whether refinancing makes sense for you or not depends on how long you plan on
   staying in your current home.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Robin+Phillips/2020/When+to+Consider+Refinancing+in+Our+Current+Market.mp4
 pullquote: >-
   More than anything, this is a timing issue, so talk to your lender and see
   whether it’s right for you.
