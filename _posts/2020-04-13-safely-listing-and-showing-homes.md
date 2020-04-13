@@ -3,8 +3,8 @@ layout: post
 title: Safely Listing and Showing Homes
 date: 2020-04-13 15:40:00
 tags:
-excerpt:
-enclosure: Robin outlines exactly how she can safely list and show your home today
+excerpt: Robin outlines exactly how she can safely list and show your home today
+enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
