@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Our Latest Charleston Market Update
+title: Is the Current Financial Situation the Same as 2008? Will Housing Prices Drop?
 date: 2020-04-13 18:04:00
 tags:
   - Market Update
