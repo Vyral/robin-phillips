@@ -17,7 +17,7 @@ youtube_code: EIE860sOWKI
 
 {% include youtube.html %}
 
-<p style="text-align:center">As we head into June, conditions are ripe for both homebuyers and sellers.</p>
+<p style="text-align:center"><em>As we head into June, conditions are ripe for both homebuyers and sellers.</em></p>
 
 A lot of people have been reaching out as of late to ask about home prices, home demand, financing, and much more related to buying or selling a home. Today I’m here to answer all of those questions for you in one place.
 
