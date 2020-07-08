@@ -17,7 +17,7 @@ youtube_code: XqTqF9JMQV8
 
 {% include youtube.html %}
 
-Despite the ongoing pandemic, buyer activity has been off the charts.
+<p style="text-align:center">Despite the ongoing pandemic, buyer activity has been off the charts.</p>
 
 For today’s message, you’ll have to excuse the fact that we have no desk; we’re in the middle of remodeling our home as we gear up to sell it (if you’re wondering whether now is a good time to sell, listen to the real estate agents who are actually selling their homes)\!&nbsp;
 
