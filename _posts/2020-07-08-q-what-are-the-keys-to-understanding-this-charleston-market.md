@@ -23,7 +23,7 @@ For today’s message, you’ll have to excuse the fact that we have no desk; we
 
 I’m sharing the most important things you need to know about our Charleston market now that we’ve reached the halfway point in 2020. For starters, 25% more homes are going under contract week over week than this same period last year, there are just 4,000 homes on the market, and VA loans hit 2.6% this past week!&nbsp;
 
-**Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to skip to topics that interest you most:&nbsp;**
+**Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to skip to topics that interest you most:**&nbsp;
 
 0:45 — Buying activity is incredibly strong&nbsp;
 
