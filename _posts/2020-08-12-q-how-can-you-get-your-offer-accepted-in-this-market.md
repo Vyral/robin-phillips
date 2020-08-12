@@ -19,7 +19,7 @@ youtube_code: eTdi1iXCs2A
 
 {% include youtube.html %}
 
-<p style="text-align:center">Here’s how to get your offer acceptedin a market with multiple-offer situations abound.</p>
+<p style="text-align:center"><em>Here’s how to get your offer acceptedin a market with multiple-offer situations abound.</em></p>
 
 In our red-hot seller’s market, if you want to successfully purchase a home amid throngs of competing buyers, be sure to remember these five tips:
 
