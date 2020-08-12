@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/boost-yt-robin-phillips.jpg
-youtube_code: eTdi1iXCs2A
+youtube_code: uoM5GHMXkjY
 ---
 
 {% include youtube.html %}
