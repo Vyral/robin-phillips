@@ -19,7 +19,7 @@ youtube_code: uoM5GHMXkjY
 
 {% include youtube.html %}
 
-<p style="text-align:center"><em>Here’s how to get your offer accepted in a market with multiple-offer situations abound.</em></p>
+<p style="text-align:center"><em>Here’s how to get your offer accepted in a market where multiple-offer situations abound.</em></p>
 
 In our red-hot seller’s market, if you want to successfully purchase a home amid throngs of competing buyers, be sure to remember these five tips:
 
@@ -35,4 +35,4 @@ In our red-hot seller’s market, if you want to successfully purchase a home am
 
 **&nbsp;5. Send a letter.** Sending the seller a personal letter about you and your family and why you want to purchase their home so badly is a good way to tug on the seller’s heartstrings. Making a personal connection like this can make your offer more memorable. Be sure to include a family picture\!
 
-Be sure to hold these tips in mind because the Charleston market is very tough right now. Normally, we have around 5,600 homes for sale; right now, inventory is currently at about 3,700 available homes. On top of that, buyer activity is through the roof\! We have an unprecedented number of homes selling each week—around 500\!
+Keep these tips in mind because the Charleston market is very tough right now. Normally, we have around 5,600 homes for sale; right now, inventory is currently at about 3,700 available homes. On top of that, buyer activity is through the roof\! We have an unprecedented number of homes selling each week—around 500\!
