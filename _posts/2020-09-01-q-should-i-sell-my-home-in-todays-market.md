@@ -17,7 +17,7 @@ youtube_code: v6XeVq2huW4
 
 {% include youtube.html %}
 
-<p style="text-align:center;">Here are three reasons why now is a good time to sell your home.</p>
+<p style="text-align:center;"><em>Here are three reasons why now is a good time to sell your home.</em></p>
 
 People have been asking us whether it’s a good idea to sell their home in today’s market, so today we’ll break down our response into three different topics that will inform your understanding of our market’s condition:
 
