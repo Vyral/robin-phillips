@@ -19,7 +19,7 @@ youtube_code: o25zwo12s6M
 
 {% include youtube.html %}
 
-<p style="text-align:center;">For your latest update on the lending world, I’ve brought in Stephanie Medlock of Benchmark Mortgage.</p>
+<p style="text-align:center;"><em>For your latest update on the lending world, I’ve brought in Stephanie Medlock of Benchmark Mortgage.</em></p>
 
 Today I’m joined by Stephanie Medlock of Benchmark Mortgage to give you an update on what’s happening in the lending world. As the mortgage industry changed significantly over the past six months, Stephanie has been as busy as she’s ever been. There’s a lot of misinformation out there that’s leading people to believe that mortgages have dried up and that they can’t buy a house, so Stephanie will set the record straight.&nbsp;
 
