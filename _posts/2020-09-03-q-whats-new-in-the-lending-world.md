@@ -27,7 +27,7 @@ Today I’m joined by Stephanie Medlock of Benchmark Mortgage to give you an upd
 
 0:51—A little background on Stephanie
 
-2:15—Can you get a loan if your income has gone down?
+2:15—Can you get a loan if your income has decreased?
 
 9:45—Will rates remain low? For how long?
 
