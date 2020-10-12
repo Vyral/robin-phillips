@@ -27,7 +27,7 @@ David and I just finished selling our home and buying a new one during a global 
 
 1:22- Why you need a storage unit and labels handy if you’re a home seller
 
-2:00- Our pricing strategy and final sale price that led to a one-day sale
+2:00- Our pricing strategy that led to a one-day sale, and our final sale price
 
 3:00- Three things we did after getting our home sale under contract to make the process easier
 
