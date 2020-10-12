@@ -33,7 +33,7 @@ David and I just finished selling our home and buying a new one during a global 
 
 4:20- The benefits of hiring a “move yourself” mover and why we had our home cleaned afterward
 
-5:20- Why you should pack early and pack smartly
+5:20- Why you should pack early and smartly
 
 5:58- The biggest lesson we learned throughout this process
 
