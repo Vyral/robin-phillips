@@ -21,7 +21,7 @@ youtube_code: yTr8fIE8CpU
 
 *Here’s some advice if you are planning a move anytime soon.*
 
-David and I just finished selling our home and buying a new one during a global pandemic. We did it with a massive home sale contingency, pulled every trick in the book to make sure the sale went smooth, and still ran into a few speed bumps along the way. Today I’m excited to share what we learned during the process in the hopes that it will help you if you find yourself in a similar situation.
+David and I just finished selling our home and buying a new one during a global pandemic. We did it with a massive home sale contingency, pulled every trick in the book to make sure the sale went smoothly, and still ran into a few speed bumps along the way. Today I’m excited to share what we learned during the process in the hopes that it will help you if you find yourself in a similar situation.
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch it in its entirety, or use these timestamps to browse specific points at your leisure:**
 
