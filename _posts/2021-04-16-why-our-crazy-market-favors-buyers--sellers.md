@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Market Update
 excerpt: Here’s how buyers and sellers can take advantage of this market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Robin+Phillips/2021/Why+Our+Crazy+Market+Favors+Buyers+%26+Sellers.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
