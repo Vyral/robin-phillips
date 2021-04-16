@@ -18,6 +18,7 @@ youtube_code: ZbiQFAS-06c
 {% include youtube.html %}
 
 <center><em>Here’s how buyers and sellers can take advantage of this market.</em></center>
+&nbsp;
 
 We’re in a crazy real estate market right now. Today I’ll cover what’s already happened in 2021 and what you can expect in the future. I’m sure you’ve heard that we’re in a seller’s market, but why? Inventory is still historically low, and for various reasons, we don’t see that changing anytime soon. However, buyers can take advantage of this market too.&nbsp;
 
