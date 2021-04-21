@@ -7,17 +7,18 @@ tags:
   - Market Update
 excerpt: Here’s how buyers and sellers can take advantage of this market.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Robin+Phillips/2021/Why+Our+Crazy+Market+Favors+Buyers+%26+Sellers.mp4
+  https://vyralmarketing.s3.amazonaws.com/Robin+Phillips/2021/Why+Our+Crazy+Market+Favors+Buyers+%26+Sellers+(1).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/spring-2021-yt-robin-phillips-ss.jpg
-youtube_code: ZbiQFAS-06c
+youtube_code: _H8Mcva2gz4
 ---
 {% include youtube.html %}
 
-<center><em>Here’s how buyers and sellers can take advantage of this market.</em></center>
+<center><em>Here&rsquo;s how buyers and sellers can take advantage of this market.</em></center>
+
 &nbsp;
 
 We’re in a crazy real estate market right now. Today I’ll cover what’s already happened in 2021 and what you can expect in the future. I’m sure you’ve heard that we’re in a seller’s market, but why? Inventory is still historically low, and for various reasons, we don’t see that changing anytime soon. However, buyers can take advantage of this market too.&nbsp;
