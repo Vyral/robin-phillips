@@ -26,7 +26,7 @@ For today’s message, I have a favor to ask.&nbsp;
 
 This market is absolutely crazy right now. Roughly 54% of all listings are going under contract with offers that are over asking price. Of that 54%, 19% are having their appraisals come back under the offer price and contract price. What does this mean for buyers and sellers?
 
-Buyers are often making as many as six offers on homes before one of them is accepted. These offers are usually over asking price and without an appraisal contingency. If you have no appraisal contingency, it means that if the home doesn’t appraise, you pay the contract price anyway and have to bring cash to the table to buy the house. People are also buying houses as is, which means no inspections involved. If there’s a major issue going on with a house and you don’t perform an inspection, you won’t find out about that issue until after the closing, and it will be your problem to fix—not the seller’s.&nbsp;
+Buyers are often making as many as six offers on homes before one of them is accepted. These offers are usually over asking price and without an appraisal contingency. If you have no appraisal contingency, it means that if the home doesn’t appraise, you pay the contract price anyway and have to bring cash to the table to buy the house. People are also buying houses as is, which means no there are inspections involved. If there’s a major issue going on with a house and you don’t perform an inspection, you won’t find out about that issue until after the closing, and it will be your problem to fix—not the seller’s.&nbsp;
 
 {% include pullquote.html %}
 
