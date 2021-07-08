@@ -5,7 +5,8 @@ date: 2021-07-08 10:55:00
 tags:
   - Real Estate
 excerpt: 'I would love it if you could send me a quick testimonial. '
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Robin+Phillips/2021/Your+Testimonial+Would+Help+Tremendously.mp4
 pullquote: >-
   We stake our reputations on doing an amazing job, and now we don’t even know
   what’s going on.
