@@ -15,6 +15,8 @@ youtube_code: RUFcA_ZUzPE
 ---
 {% include youtube.html %}
 
+*&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Here’s part one of my two-part forecast for the 2022 real estate market.*
+
 Everyone has been asking me about the real estate market in 2022 and what’s going to happen, so today I’m here to offer my thoughts.
 
 First and foremost, I want to talk about interest rates. We’re hearing that they will go up from many industry experts. **Most predict that we’ll hit the 4% range by the end of 2022.** This means that homes are going to get more expensive even if prices don’t rise or come down slightly. It’s better to buy while rates are lower. Waiting to buy until the end of 2022 could cost you.
