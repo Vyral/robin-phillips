@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Your 2022 Real Estate Forecast: Part 1'
-date: 2021-08-13 10:55:00
+date: 2021-10-28 10:55:00
 tags:
     - Real Estate
 excerpt: Here’s part one of my two-part forecast for the 2022 real estate market.
