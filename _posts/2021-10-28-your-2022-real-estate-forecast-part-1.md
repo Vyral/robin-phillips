@@ -11,11 +11,11 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/2022-forecast-yt-robin-phillips-ss.jpg
-youtube_code: RUFcA_ZUzPE
+youtube_code: jYxL_jGL9Hk
 ---
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Here’s part one of my two-part forecast for the 2022 real estate market.</em></p>
+*Here’s part one of my two-part forecast for the 2022 real estate market.*
 
 Everyone has been asking me about the real estate market in 2022 and what’s going to happen, so today I’m here to offer my thoughts.
 
