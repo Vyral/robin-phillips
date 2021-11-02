@@ -15,7 +15,7 @@ youtube_code: jYxL_jGL9Hk
 ---
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Here’s part one of my two-part forecast for the 2022 real estate market.</em></p>
+*Here’s part one of my two-part forecast for the 2022 real estate market.*
 
 Everyone has been asking me about the real estate market in 2022 and what’s going to happen, so today I’m here to offer my thoughts.
 
@@ -31,6 +31,6 @@ We are also having trouble getting home-building materials. **If you’re buildi
 
 As for housing prices, they’re going to continue to keep climbing, but they should level off as we get more inventory. This is very market and price-point specific, but I will say that we won’t see the 10% monthly price hikes that we saw this past summer.
 
-If you’ve been thinking about using real estate to increase your wealth, I will say that **it’s a great time to purchase an investment property.** For one, it can offset your taxes. Rental rates are also going to continue to go up, which is good for your bottom line.
+If you’ve been thinking about using real estate to increase your wealth,&nbsp;**it’s a great time to purchase an investment property.** For one, it can offset your taxes. Rental rates are also going to continue to go up, which is good for your bottom line.
 
 Stay tuned for part two of this extensive market forecast for 2022. If you have any questions for me in the meantime, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
