@@ -15,7 +15,7 @@ youtube_code: ZztdB3mUfok
 ---
 {% include youtube.html %}
 
-*Here’s why you don’t need to worry about a massive wave of foreclosures. *
+<p style="text-align:center;"><em>Here’s why you don’t need to worry about a massive wave of foreclosures.</em></p>
 
 Recently, a lot of clients have expressed their concerns about a tidal wave of foreclosures just around the corner. This seems odd to me because every expert agrees this is very unlikely to happen. That’s why today, I want to explain why we won’t see a flood of foreclosures hit the market.
 
