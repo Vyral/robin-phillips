@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why You Shouldn't Worry About Foreclosures
+title: Should You Worry About Foreclosures Affecting The Market?
 date: 2021-11-11 10:55:00
 tags:
     - Real Estate
