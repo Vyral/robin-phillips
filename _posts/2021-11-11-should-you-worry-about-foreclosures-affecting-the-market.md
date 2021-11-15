@@ -17,7 +17,7 @@ youtube_code: ZztdB3mUfok
 
 *Here’s why you don’t need to worry about a massive wave of foreclosures. *
 
-Recently, a lot of clients have expressed their concerns about a tidal wave of foreclosures just around the corner. This seems odd to me because every expert agrees it is very unlikely. That’s why I want to explain why we won’t see a flood of foreclosures hit the market.&nbsp;
+Recently, a lot of clients have expressed their concerns about a tidal wave of foreclosures just around the corner. This seems odd to me because every expert agrees this is very unlikely to happen. That’s why today, I want to explain why we won’t see a flood of foreclosures hit the market.
 
 There are quite a few reasons why we won’t see a wave of foreclosures, but the biggest one by far is that **people have too much equity in their homes.** If someone is facing the possibility of foreclosure, they can just sell their home at market price. Home values have appreciated like crazy over the last year, and our market is starved for inventory. We may see a slight uptick in the number of homes on the market, but it won’t be a crazy flood like some have predicted.&nbsp;
 
@@ -27,6 +27,6 @@ Another reason you don’t need to worry about foreclosures is that **the proces
 
 **I also don’t expect us to see too many short sales in Charleston.** You only need to do a short sale when you can’t sell your home for the value of the mortgage. Since homes have appreciated so much, this shouldn’t be an issue.&nbsp;
 
-For all these reasons, I don’t expect home prices to go down anytime soon. If you’ve been sitting on the fence about heading into the market, I suggest you don’t wait. Interest rates are predicted to go up to around 4% in 2022, so your buying power will take a hit. Take advantage of our low rates while you can.&nbsp;
+For all these reasons, I don’t expect home prices to go down anytime soon. If you’ve been sitting on the fence about heading into the market, I suggest you don’t wait. Interest rates are predicted to go up to around 4% in 2022, and your buying power will take a hit. Take advantage of our low rates while you can.&nbsp;
 
-If you have questions about today’s topic or anything else related to real estate, please call or email me. I am always willing to help.
+If you have any questions about today’s topic or anything else related to real estate, please call or email me. I am always willing to help.
