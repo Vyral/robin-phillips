@@ -5,7 +5,8 @@ date: 2021-11-11 10:55:00
 tags:
     - Real Estate
 excerpt: 'Here’s why you don’t need to worry about a massive wave of foreclosures. '
-enclosure:
+enclosure: >-
+    https://vyralmarketing.s3.amazonaws.com/Robin+Phillips/2021/Why+You+Shouldn't+Worry+About+Foreclosures.mp4
 pullquote: ' Home values have appreciated like crazy over the last year or so, and our market is starved for inventory.'
 enclosure_type: video/mp4
 enclosure_time:
@@ -15,7 +16,7 @@ youtube_code: yXhIqQht6wI
 ---
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Here’s why you don’t need to worry about a massive wave of foreclosures.</em></p>
+*Here’s why you don’t need to worry about a massive wave of foreclosures.*
 
 Recently, a lot of clients have expressed their concerns about a tidal wave of foreclosures just around the corner. This seems odd to me because every expert agrees this is very unlikely to happen. That’s why today, I want to explain why we won’t see a flood of foreclosures hit the market.
 
