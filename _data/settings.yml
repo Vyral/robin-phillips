@@ -98,7 +98,7 @@ images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 60
-  hero_text: Your Realtor Robin. Teaching you to buy & sell like an expert!
+  hero_text: Your Realtor Robin.<br>Teaching you to buy & sell like an expert!
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
