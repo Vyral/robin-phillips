@@ -10,8 +10,8 @@ pullquote: We won’t be seeing the 10% monthly price hikes that we did this sum
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/2022-forecast-yt-robin-phillips-ss.jpg
-youtube_code: EVVnzarTXuE
+youtube_alternate_image: /uploads/mqdefault-1.webp
+youtube_code: RfsbCfQvjbs
 ---
 {% include youtube.html %}
 
