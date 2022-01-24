@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why You Shouldn't Worry About Foreclosures
+title: 2022 Market Forecast Pt. 2 - Why You Shouldn't Worry About Foreclosures
 date: 2021-11-11 10:55:00
 tags:
     - Real Estate
