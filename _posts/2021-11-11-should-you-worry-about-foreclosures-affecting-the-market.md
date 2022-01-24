@@ -11,8 +11,8 @@ pullquote: ' Home values have appreciated like crazy over the last year or so, a
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/2022-forecast-pt-2-yt-robin-phillips-ss.jpg
-youtube_code: yXhIqQht6wI
+youtube_alternate_image: /uploads/mqdefault-2.webp
+youtube_code: IIYNQxCHfhI
 ---
 {% include youtube.html %}
 
