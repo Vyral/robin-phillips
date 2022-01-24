@@ -10,7 +10,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /2021-08-13.jpg
+youtube_alternate_image: /uploads/mqdefault.jpg
 youtube_code: haj7zMVdNVs
 ---
 {% include youtube.html %}
