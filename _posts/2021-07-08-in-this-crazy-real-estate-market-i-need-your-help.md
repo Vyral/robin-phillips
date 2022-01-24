@@ -1,6 +1,6 @@
 ---
 layout: post
-title: In this crazy real estate market, I need your help!
+title: In This Crazy Real Estate Market, I Need Your Help!
 date: 2021-07-08 10:55:00
 tags:
   - Real Estate
@@ -13,8 +13,8 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/we-need-your-help-yt-robin-phillips-ss.jpg
-youtube_code: 5ED-OZeXndo
+youtube_alternate_image: /uploads/mqdefault.webp
+youtube_code: p5r5VN2RB7Q
 ---
 {% include youtube.html %}
 
