@@ -12,13 +12,12 @@ pullquote: Homebuilders can only build so quickly.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/wrapup-yt-robin-phillips.jpg
-youtube_code: V3KpiFOwLgo
+youtube_alternate_image: /uploads/mqdefault-4.webp
+youtube_code: wUItiL11ucM
 ---
-
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Here’s what the 2020 market tells us about what to expect in 2021.</em></p>
+*Here’s what the 2020 market tells us about what to expect in 2021.*
 
 The real estate market in Charleston this year was phenomenal. **After a record-breaking 2019, 2020’s numbers were somehow even better.&nbsp;**
 
