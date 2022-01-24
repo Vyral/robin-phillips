@@ -12,13 +12,12 @@ pullquote: Who better to sell your house than your neighbors?
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/openhouse-yt-robinphillips.jpg
-youtube_code: FmnIiHV4Jcc
+youtube_alternate_image: /uploads/mqdefault-3.webp
+youtube_code: NHhWa-XZmbk
 ---
-
 {% include youtube.html %}
 
-<p style="text-align:center"><em>Just because open houses don’t typically lead directly to a sale doesn’t mean they aren’t of great value. Here’s what I mean.</em></p>
+*Just because open houses don’t typically lead directly to a sale doesn’t mean they aren’t of great value. Here’s what I mean.*
 
 I’m here at one of my most beautiful listings, 1440 Madison Court. Located in the heart of Mount Pleasant, this truly multi-generational home lends itself well to our message today on open houses.&nbsp;
 
