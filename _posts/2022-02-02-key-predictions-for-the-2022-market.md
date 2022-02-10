@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Market Update
 excerpt: Here’s what to expect from the market as 2022 progresses.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Robin+Phillips/2022/Key+Predictions+for+the+2022+Market.mp4
 pullquote: Given the expected rise in interest rates, it’s best to buy sooner than later.
 enclosure_type: video/mp4
 enclosure_time:
