@@ -1,12 +1,13 @@
 ---
 layout: post
-title: 5 Ways To Win as a Homebuyer vs. Multiple Offers
+title: 5 Ways To Win as a Homebuyer In Multiple Offers
 date: 2022-02-28 10:55:00
 tags:
   - Real Estate
   - Home Buyer Tips
 excerpt: Here are five great ways to win as a buyer in this hot seller’s market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Robin+Phillips/2022/5+Ways+To+Win+as+a+Homebuyer+vs.+Multiple+Offers.mp4
 pullquote: Make sure your earnest money doesn’t exceed $7,500.
 enclosure_type: video/mp4
 enclosure_time:
