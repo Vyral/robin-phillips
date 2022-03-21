@@ -7,7 +7,8 @@ tags:
   - Home Buyer Tips
   - Home Seller Tips
 excerpt: In a hectic market like this, how do you find the best time to buy or sell?
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Robin+Phillips/When+Is+the+Right+Time+To+Buy+or+Sell_.mp4
 pullquote: The market looks different whether you're a buyer, a seller, or both.
 enclosure_type: video/mp4
 enclosure_time:
