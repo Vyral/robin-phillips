@@ -26,13 +26,13 @@ After you apply for a loan, nothing about your financial situation should change
 
 **2\. Don’t make any large purchases.** Don’t buy a car, an expensive ring, new furniture, or anything else along those lines. I know you’re excited about your new home and want to buy furniture, but don’t do it. It’ll change your debt-to-income ratio, and the last thing we want is for you not to be able to close.&nbsp;
 
-**3\. Don’t cosign on anyone else’s loan.** It obligates you to their loan and, again, changes your debt-to-income ratio.
+**3\. Don’t cosign on anyone else’s loan.** It obligates you to their loan and, again, it changes your debt-to-income ratio.
 
 {% include pullquote.html %}
 
 **4\. Don’t change bank accounts.** As stated above, the bank has to trace every single dollar, so make it easier for both them and you by having just one account for them to look through.&nbsp;
 
-**5\. Don’t apply for new credit.** It’ll change your credit score. You don’t want anything to lower your credit score and increase your interest rate right before closing.&nbsp;
+**5\. Don’t apply for new credit.** It’ll change your credit score. You don’t want to do anything to lower your credit score and increase your interest rate right before closing.&nbsp;
 
 **6\. Don’t close any credit card accounts.** It may seem counterintuitive, but part of your credit score is how much credit you’re using out of how much is available. So if you close a credit card account, you’re reducing your available credit, which will negatively impact your credit score.
 
