@@ -19,9 +19,9 @@ youtube_code: nToDGtBlqHI
 
 Today I’m sharing a few of my favorite restaurants in north Mount Pleasant; they have more than you think:
 
-**1\. Fuji Sushi.** Located right off of Highway 41, they have a great indoor space and outdoor patio area. I love eating on the patio because it has a pond with a fountain. I always get jojo rolls, which have tempura shrimp, spicy scallops, and avocado wrapped in soy paper. I have a glass of red wine with it, and it’s super yummy\!
+**1\. Fuji Sushi.** Located right off Highway 41, they have a great indoor space and outdoor patio area. I love eating on the patio because it has a pond with a fountain. I always get jojo rolls, which have tempura shrimp, spicy scallops, and avocado wrapped in soy paper. I have a glass of red wine with it, and it’s super yummy\!
 
-**2\. Umi Japanese Restaurant.** They’re located in Park West in the public shopping center. The indoor area is small, but the food is wonderful. Every time I go there they remember who I am and ask about David. I like to order the fantastic rolls, which look pretty amazing. Each roll is pink and green, filled with chunks of spicy tuna, salmon, yellowtail, and avocado.
+**2\. Umi Japanese Restaurant.** They’re located in Park West in the public shopping center. The indoor area is small, but the food is wonderful. Every time I go there, they remember who I am and ask about David. I like to order the fantastic rolls, which look pretty amazing. Each roll is pink and green, filled with chunks of spicy tuna, salmon, yellowtail, and avocado.
 
 **3\. Carmen y Juan.** I like off-the-beaten-path, non-chain restaurants, so I have to share this one with you. This is authentic Mexican food, and they have a cute patio where my dog, Kobe, is always welcome. Their margaritas are excellent\!
 
@@ -33,7 +33,7 @@ Carolina Park is one of the newest neighborhoods in north Mount Pleasant, and th
 
 **5\. Emoji Poké.** This is David’s favorite go-to lunch spot, and they have superb spicy tuna. So my go-to order is Robin’s poké bowl with spicy tuna, half rice, half lettuce, and avocado.&nbsp;
 
-**6\. Front Porch Coffeehouse and Creamery.** They have such a cool, eclectic vibe. They offer coffee, frappes, gourmet popsicles, bubble tea, and more. They also have a lovely outdoor porch with umbrellas. I usually order the classic bubble tea, which is classic milk tea, boba, taro, and thai.&nbsp;
+**6\. Front Porch Coffeehouse and Creamery.** They have such a cool, eclectic vibe. They offer coffee, frappes, gourmet popsicles, bubble tea, and more. They also have a lovely outdoor porch with umbrellas. I usually order the classic bubble tea, which is milk tea, boba, taro, and Thai iced tea.&nbsp;
 
 **7\. Wasabi.** This is one of my favorite places to have lunch with clients or other agents because they have indoor and outdoor seating and a beautiful bar. Their tempura shrimp appetizer is one of my favorites, and it includes shrimp, shiitake mushrooms, asparagus, and carrots.&nbsp;
 
