@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Buyer Tips
 excerpt: The six main things you must avoid doing after applying for a mortgage.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Robin+Phillips/2022/Why+It%E2%80%99s+a+Good+Time+To+Buy+D.C.+Condos.mp4
 pullquote: >-
   You don’t want anything to lower your credit score and increase your interest
   rate right before closing. 
