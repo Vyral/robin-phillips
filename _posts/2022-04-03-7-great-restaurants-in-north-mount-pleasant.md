@@ -5,7 +5,8 @@ date: 2022-04-03 00:00:00
 tags:
   - Real Estate
 excerpt: Hungry? Here are my seven favorite restaurants in north Mount Pleasant.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Robin+Phillips/2022/7+Great+Restaurants+in+North+Mount+Pleasant.mp4
 pullquote: Visit any of these restaurants, and you won’t be sorry.
 enclosure_type: video/mp4
 enclosure_time:
