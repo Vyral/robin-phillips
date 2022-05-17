@@ -22,7 +22,7 @@ Should you buy a house in 2022? Are we in a bubble? I receive these questions of
 
 It’s all over the news that inflation is up to its highest point since 1981. What’s the best way to curb inflation? Raising interest rates. My clients will point to this all the time and say that since both interest rates and prices are going up, affordability is decreasing. They’ll conclude that when affordability rises, prices have to drop. However, that’s not true.
 
-There are only two factors that affect home prices: supply and demand. On the demand side, **interest rates will continue to go up,** and buyers know this. Potential buyers who were holding off until the end of the year are all piling into the market because they wanted to secure the lowest rate possible. On top of that, we have incredibly low unemployment. I read an article the other day that said there is one job for every two people. So we have lots of buyers who want to and can afford to buy now.
+There are only two factors that affect home prices: supply and demand. On the demand side, **interest rates will continue to go up,** and buyers know this. Potential buyers who were holding off until the end of the year are all piling into the market because they want to secure the lowest rate possible. On top of that, we have incredibly low unemployment. I read an article the other day that said there are two jobs for every person. So we have lots of buyers who want to and can afford to buy now.
 
 {% include pullquote.html %}
 
@@ -32,6 +32,6 @@ Also, sellers who were on the fence might choose to stay in their current home a
 
 People have talked about the forbearance program and the possibility of tons of homes flooding the market, but that program is over. Again, **people have tons of equity in their homes,** and banks are refinancing those forbearance payments into 40-year mortgages. Those houses are simply not hitting the market as foreclosures.
 
-With all these reasons for low supply and strong buyer demand, prices will continue to climb. The National Association of Realtors continues to say that we’ll have this same market until 2024. It is a great time to buy. Get the home you want and enjoy the price appreciation.&nbsp;
+With all of these reasons for low supply and strong buyer demand, prices will continue to climb. The National Association of Realtors continues to say that we’ll have this same market until 2024. It is a great time to buy. Get the home you want and enjoy the price appreciation.&nbsp;
 
 Due to all the reasons above, we’re not in a real estate bubble. If you have any questions or want details about your specific market, I’d love to help. Just call or email me.
