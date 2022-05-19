@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Market Update
 excerpt: Our market is still strong, and here are a few good reasons why.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Robin+Phillips/2022/Should+You+Buy+a+Home+in+2022_.mp4
 pullquote: 'There are only two factors that affect home prices: supply and demand.'
 enclosure_type: video/mp4
 enclosure_time:
