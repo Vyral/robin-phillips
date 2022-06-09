@@ -22,9 +22,9 @@ Too many sellers out there think that the real estate market is the same day aft
 
 **1\. Failing to understand the total cost.** Most people who are selling a home are also buying one, so if you’re going to purchase another property after selling, be sure to meet with a lender in advance to discuss the costs. For example, find out how much money you’ll need to put down on that new house.
 
-**2\. Overpricing your home.** Even though we’re in a seller’s market, buyers can tell when a home is overpriced, and your listing will likely sit on the market for longer than it should. You might even have to resort to a price reduction eventually to correct your mistake.
+**2\. Overpricing your home.** Even though we’re in a seller’s market, buyers can tell when a home is overpriced. If your list price is too high, your property may sit on the market for longer than it should. You might even have to resort to a price reduction eventually to correct your mistake.
 
-**3\. Not preparing your home for sale.** I’ve gotten my sellers around 10% more for their homes by asking them to property declutter, make necessary repairs, paint the home a neutral color, and create massive curb appeal. Sometimes it’s hard to spend that money upfront, but if you do, you’ll reap the rewards.
+**3\. Not preparing your home for sale.** I’ve gotten my sellers around 10% more for their homes by asking them to properly declutter, make necessary repairs, paint the home a neutral color, and create massive curb appeal. Sometimes it’s hard to spend that money upfront, but if you do, you’ll reap the rewards.
 
 **4\. Not hiring a professional photographer.** Over 90% of buyers are looking for their dream homes online before coming to town—sometimes prior to even contacting a real estate agent. Be sure to put the most beautiful, 4k, HD photos you can online so that your buyers can see your home in its best possible light. It will translate to more money in your pocket.
 
@@ -34,7 +34,7 @@ Too many sellers out there think that the real estate market is the same day aft
 
 **6\. Not listening to buyer feedback.** A great agent will get feedback from every single showing, and if buyers aren’t making any offers, you should know why. If it’s something you can change, change it. If it’s something you can’t change, you might have to lower the price. Remember that neither you nor your agent set the home’s selling price—the market will tell you what a house should sell for.
 
-**7\. Only considering the price when choosing an offer.** The terms of the offer can be just as important. Is the buyer using cash or are they getting financing? Will they take two weeks or a month to close? Make sure to examine all of these factors before choosing the offer that’s best for you.
+**7\. Only considering the price when choosing an offer.** The terms of the offer can be just as important. Is the buyer using cash, or are they getting financing? Will they take two weeks or a month to close? Make sure to examine all of these factors before choosing the offer that’s best for you.
 
 **8\. Not being willing to negotiate.** If you’re unwilling to negotiate when it comes to things like buyer repair requests, you might find yourself starting the selling process all over again when your buyer walks away. Try to be flexible when it comes to negotiations.
 
