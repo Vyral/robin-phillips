@@ -20,7 +20,7 @@ youtube_code: h3QNnT4lzgs
 
 Too many sellers out there think that the real estate market is the same day after day, but it’s not. In these ever-changing conditions, there are nine key mistakes that home sellers should avoid when selling their homes in the June 2022 market:
 
-**1\. Failing to understand the total cost.** Most people who are selling a home are also buying one, so if you’re going to purchase another property after selling, be sure to meet with a lender in advance to discuss the costs. For example, find out how much money you’ll need to put down on that new house.
+**1\. Failing to understand the total cost.**&nbsp;For example, find out how much money you’ll need to put down on that new house.
 
 **2\. Overpricing your home.** Even though we’re in a seller’s market, buyers can tell when a home is overpriced. If your list price is too high, your property may sit on the market for longer than it should. You might even have to resort to a price reduction eventually to correct your mistake.
 
