@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/ruined-home-sale-yt-robin-phillips-ss.png
-youtube_code: h3QNnT4lzgs
+youtube_code: 78JCgr5nVqM
 ---
 {% include youtube.html %}
 
