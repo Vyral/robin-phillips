@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Seller Tips
 excerpt: 'Sellers: Don’t make these nine common mistakes when you sell.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Robin+Phillips/2022/9+Home-Selling+Mistakes+To+Avoid.mp4
 pullquote: The market will tell you what a house should sell for.
 enclosure_type: video/mp4
 enclosure_time:
