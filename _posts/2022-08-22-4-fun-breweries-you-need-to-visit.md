@@ -10,7 +10,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/robin-phillips-ss-template-08-22-yt.jpg
+youtube_alternate_image: /uploads/robin-phillips-ss-template-08-30-yt-2.jpg
 youtube_code: SAPOfzYC8KQ
 ---
 {% include youtube.html %}
